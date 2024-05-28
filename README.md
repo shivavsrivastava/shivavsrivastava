@@ -1,5 +1,5 @@
 ## Shiva Srivastava
-Climate AI/ Computer Vision | Founder Floreat AI
+Founder Floreat AI
 
 <!--
 **shivavsrivastava/shivavsrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
